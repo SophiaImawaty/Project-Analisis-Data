@@ -1,4 +1,4 @@
-# Bike Rental Dashboard
+# Bike Sharing Database Dahboard
 ## Prerequisites
 - Python 3.x
 - Streamlit
